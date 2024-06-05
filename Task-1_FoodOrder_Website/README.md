@@ -1,14 +1,11 @@
 <div align="center">
 
 
-  <br />
-  <br />
 
-  <h2 align="center">Food - Fast food website</h2>
 
-  Food is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  <h2 align="center">Foodie - Fast food website</h2>
 
-  <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
+  Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 </div>
 
